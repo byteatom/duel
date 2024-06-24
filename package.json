@@ -1,5 +1,5 @@
 {
-  "name": "@knighted/duel",
+  "name": "@byteatom/duel",
   "version": "2.0.0-rc.1",
   "description": "TypeScript dual packages.",
   "type": "module",
@@ -47,10 +47,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/knightedcodemonkey/duel.git"
+    "url": "https://github.com/byteatom/duel.git"
   },
   "bugs": {
-    "url": "https://github.com/knightedcodemonkey/duel/issues"
+    "url": "https://github.com/byteatom/duel/issues"
   },
   "peerDependencies": {
     "typescript": ">=4.0.0 || >=4.9.0-dev || >=5.3.0-dev || >=5.4.0-dev || >=5.5.0-dev || next"
